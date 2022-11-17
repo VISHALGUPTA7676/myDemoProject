@@ -2,6 +2,7 @@ package com.bean;
 
 public class Product {
 
+	
 	private int customer_id;
 	public int getCustomer_id() {
 		return customer_id;
