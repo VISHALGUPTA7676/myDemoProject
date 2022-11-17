@@ -1,0 +1,17 @@
+.modal .modal-dialog .modal-content .modal-title
+{
+	font-weight: bold;
+	color: red;
+}
+
+.modal .modal-dialog .modal-content .modal-body th
+{
+	/*padding-right: 92px;*/
+	/*border: 1px solid red;
+	width: 400px;
+
+*/}
+
+.modal .modal-dialog .modal-content {
+	margin-top: 44px;
+}

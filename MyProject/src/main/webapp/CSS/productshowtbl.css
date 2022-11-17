@@ -1,0 +1,24 @@
+.contents  .table-responsive .product-header{
+    color: red;
+    box-shadow: 2px red;
+    padding-top: 20px;
+    font-size: 32px;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    text-shadow: 0px 2px 5px red;
+	font-weight: bold;
+	
+    
+}
+
+.main_Header_fileNaMe .contents .table-responsive11 .table-striped thead tr th
+{
+	text-align: left;
+	vertical-align: super;
+	width:100%;
+	font-weight: bold;
+	
+	font-size:14px;
+}
+ 

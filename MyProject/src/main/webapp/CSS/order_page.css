@@ -1,0 +1,36 @@
+
+.main{
+    margin-top: 100px;
+    /* margin-left: 300px; */
+    /* width: 200px; */
+    margin-left: 50px;
+    border: none;
+}
+
+.container{
+    width: fit-content;
+    background-color: whitesmoke;
+    border: 2px  solid gray;
+}
+.order-details{
+    text-decoration:underline gray;
+}
+
+.customer_details{
+    border: none;
+    width: fit-content;
+}
+.Customer_address{
+    font-size: large;
+}
+.product_details{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: fit-content;
+    border: none;
+}
+.total-price{
+    font-size: large;
+    font-weight:100px;
+    margin-right: 20px;
+}

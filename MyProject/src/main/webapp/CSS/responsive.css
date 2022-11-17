@@ -1,0 +1,93 @@
+
+@media screen and (max-width:1280px){
+   /* Navigation*/
+   #header .fixed-top{
+    float: none;
+    width: 100%;
+}
+    /* Home Css */
+    .home .home-banner-1,
+    .home .home-banner-2{
+        background-position: 70% center;
+        min-height: 420px;
+    }
+}
+@media screen and (max-width:1030px){
+   /* Navigation*/
+   #header .fixed-top{
+    float: none;
+    width: 100%;
+}
+    /* Home Css */
+    .home .home-banner-1,
+    .home .home-banner-2{
+        background-position: 70% center;
+        min-height: 340px;
+    }
+}
+
+@media screen and (max-width:600px){
+    /* Navigation*/
+    #header .fixed-top{
+        float: none;
+        width: 100%;
+    }
+    /* Home Css */
+    .home .home-banner-1,
+    .home .home-banner-2{
+        background-position: 70% center;
+        min-height: 340px;
+    }
+}
+
+@media screen and (max-width:991px){
+   /* Navigation*/
+   #header .fixed-top{
+    float: none;
+    width: 100%;
+}
+    /* Home Css */
+    .home .home-banner-1,
+    .home .home-banner-2{
+        background-position: 70% center;
+        min-height: 250px;
+    }
+}
+
+@media screen and (max-width:290px){
+    /* Navigation*/
+   #header .fixed-top{
+    float: none;
+    width: 100%;
+    padding: 0.1px;
+} 
+
+#header .container a{
+    color: #f2f2f2;
+    font-size: 12px;
+}
+
+#header .container a span{
+    color: rgb(252, 47, 11);
+    font-size: 12px;
+    font-weight: 500;
+    outline: none;
+}
+
+#header .navbar-toggler-icon{
+    font-size: 12px;
+}
+
+.navbar i{
+    font-size: 12px;
+}
+
+    /* Home Css */
+     .home .home-banner-1,
+     .home .home-banner-2{
+         background-position: 80% center;
+         min-height: 110px;
+     }
+ }
+
+
